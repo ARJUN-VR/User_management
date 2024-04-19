@@ -1,0 +1,9 @@
+.btnimg{
+    margin-top: 12px;
+    margin-left: 0px;
+    background-color: rgb(177, 184, 184);
+    width: 100px;
+    height: 30px;
+    color: rgb(1, 14, 14);
+    border-radius: 20px;
+}
